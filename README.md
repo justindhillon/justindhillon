@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justindhillon
 - 🎓 University of British Columbia 2028 
-- 🧑‍💻 Web Developer 
+- 🧑‍💻 Full Stack Developer 
 - 🐧 Linux Enthusiast
 - 🇨🇦 Vancouver, Canada
