@@ -4,20 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=justindhillon">
 </div>
 
-<br>
+<br> <img align="right" height="300" width="400" src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/working.gif"> <br>
 
-<div class="content">
-  <img style="float: right;" height="300" width="400" src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/working.gif">
-  <br>
-  <ul>
-    <li> 🎓 University of British Columbia </li>
-    <li> 🧑‍💻 Full Stack Developer </li>
-    <li> 🐧 Linux Enthusiast </li>
-    <li> 🇨🇦 Vancouver, Canada </li>
-    <li> 📫 Send me an <a href="mailto:justin.singh.dhillon@gmail.com">Email</a></li>
-    <li> 📄 Look to my <a href="https://github.com/justindhillon/justindhillon/blob/main/resume.pdf" target="blank">Resume</a></li>
-  </ul>
-</div>
+- 🎓 University of British Columbia 
+- 🧑‍💻 Full Stack Developer 
+- 🐧 Linux Enthusiast 
+- 🇨🇦 Vancouver, Canada 
+- 📫 Send me an <a href="mailto:justin.singh.dhillon@gmail.com">Email</a>
+- 📄 Look to my <a href="https://github.com/justindhillon/justindhillon/blob/main/resume.pdf" target="blank">Resume</a>
 
 <div align="center">
   <h3>
