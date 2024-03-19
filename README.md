@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm <a href="https://github.com/justindhillon">Justin Dhillon</a></h1>
+  <h1>Hi 👋, I'm <a href="https://www.justin-dhillon.com/">Justin Dhillon</a></h1>
   <h3>A Full Stack Developer from Vancouver 🇨🇦 </h3>
   <img src="https://komarev.com/ghpvc/?username=justindhillon">
 </div>
