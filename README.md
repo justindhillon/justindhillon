@@ -11,7 +11,6 @@
 - 🐧 Linux Enthusiast 
 - 🇨🇦 Vancouver, Canada 
 - 📫 Send me an <a href="mailto:justin.singh.dhillon@gmail.com">Email</a>
-- 📄 Look to my <a href="https://github.com/justindhillon/justindhillon/blob/main/resume.pdf" target="blank">Resume</a>
 
 <div align="center">
   <h3>
