@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm <a href="https://www.justin-dhillon.com/">Justin Dhillon</a></h1>
-  <h3>A Full Stack Developer from Vancouver 🇨🇦 </h3>
+  <h3>A Full Stack Developer from Canada 🇨🇦 </h3>
   <img src="https://komarev.com/ghpvc/?username=justindhillon">
 </div>
 
@@ -9,7 +9,6 @@
 - 🎓 University of British Columbia 
 - 🧑‍💻 Full Stack Developer 
 - 🐧 Linux Enthusiast 
-- 🇨🇦 Vancouver, Canada 
 - 📫 Send me an <a href="mailto:justin.singh.dhillon@gmail.com">Email</a>
 
 <div align="center">
